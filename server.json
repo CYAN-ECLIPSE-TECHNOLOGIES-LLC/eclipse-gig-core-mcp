@@ -4,5 +4,37 @@
  "title": "Eclipse Gig Core MCP",
  "description": "One approved Task Brief, every marketplace: hash-bound briefs, all-in quotes, and a hire that runs",
  "version": "0.1.0",
- "websiteUrl": "https://eclipsebazaar.com"
+ "websiteUrl": "https://eclipsebazaar.com",
+ "icons": [
+  {
+   "src": "https://raw.githubusercontent.com/CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-gig-core-mcp/main/icon-512.png",
+   "mimeType": "image/png",
+   "sizes": [
+    "512x512"
+   ]
+  }
+ ],
+ "repository": {
+  "source": "github",
+  "url": "https://github.com/CYAN-ECLIPSE-TECHNOLOGIES-LLC/eclipse-gig-core-mcp"
+ },
+ "packages": [
+  {
+   "registryType": "pypi",
+   "identifier": "eclipse-gig-core",
+   "version": "0.1.0",
+   "runtimeHint": "uvx",
+   "transport": {
+    "type": "stdio"
+   }
+  },
+  {
+   "registryType": "oci",
+   "identifier": "ghcr.io/cyan-eclipse-technologies-llc/eclipse-gig-core-mcp:0.1.0",
+   "runtimeHint": "docker",
+   "transport": {
+    "type": "stdio"
+   }
+  }
+ ]
 }
