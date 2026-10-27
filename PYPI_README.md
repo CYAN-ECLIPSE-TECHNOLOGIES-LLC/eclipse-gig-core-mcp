@@ -1,5 +1,7 @@
 # eclipse-gig-core
 
+mcp-name: io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/gig-core
+
 **What this is:** the MCP server for **Eclipse Gig Core** — the shared
 core of Cyan Eclipse Technologies' Eclipse gig adapter family. One
 canonical, owner-approved Task Brief becomes a native request, offer
