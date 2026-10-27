@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+# Eclipse Gig Core MCP
+# Copyright © 2026 Cyan Eclipse Technologies LLC · cetech.ai
+# End-to-end stdio smoke for Eclipse Gig Core v0.1 (G0).
+
 """End-to-end stdio smoke for Eclipse Gig Core v0.1 (G0).
 
 Temp state. Drives initialize -> brief_create -> brief_approve ->
@@ -133,3 +137,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# Eclipse Gig Core MCP · © 2026 Cyan Eclipse Technologies LLC · cetech.ai

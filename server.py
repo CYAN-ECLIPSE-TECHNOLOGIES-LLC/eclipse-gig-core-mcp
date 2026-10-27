@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Eclipse Gig Core MCP
+# Copyright © 2026 Cyan Eclipse Technologies LLC · cetech.ai
+
 """Eclipse Gig Core MCP — v0.1.0, phase G0 (shared Task Brief core).
 
 Powered by Cyan Eclipse Technologies (cetech.ai).
@@ -848,3 +851,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# Eclipse Gig Core MCP · © 2026 Cyan Eclipse Technologies LLC · cetech.ai

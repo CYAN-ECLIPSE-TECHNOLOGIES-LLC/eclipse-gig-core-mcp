@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+# Eclipse Gig Core MCP
+# Copyright © 2026 Cyan Eclipse Technologies LLC · cetech.ai
+# Eclipse Gig Core v0.1 (G0) tests.
+
 """Eclipse Gig Core v0.1 (G0) tests.
 Run: python3 -m unittest discover tests"""
 import copy
@@ -380,3 +384,5 @@ class TestReceiptsAndDenylist(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+# Eclipse Gig Core MCP · © 2026 Cyan Eclipse Technologies LLC · cetech.ai

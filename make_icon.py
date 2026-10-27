@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+# Eclipse Gig Core MCP
+# Copyright © 2026 Cyan Eclipse Technologies LLC · cetech.ai
+# Generate icon-512.png — brand §6: eclipse motif on navy (#0d1b2a),
+
 """Generate icon-512.png — brand §6: eclipse motif on navy (#0d1b2a),
 one per-product glyph. Gig Core's glyph is the Task Brief itself: a
 document with scope lines and a hash seal, inside the gradient
@@ -48,3 +52,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# Eclipse Gig Core MCP · © 2026 Cyan Eclipse Technologies LLC · cetech.ai
